@@ -18,17 +18,18 @@ After that you have to restar your VSCode and run tests.
 
 /****************************************************************************************************
 YOU HAVE TO MATCH VERSION OF "CHROMEDRIVER" INSTALLED IN PACKAGE.JSON AND ONE YOU ARE ADDING IN PATH.
-*****************************************************************************************************/
+****************************************************************************************************/
+
+# To launch Registring User test follow these steps
+
+1. Go into the tests folder, cd tests
+2. In the registerUser.js changle line 12, delete following email "farisaksalic@gmail.com" and add yours
+3. node registringUser.js
 
 # To launch login User test follow these steps
 
 1. Go into the tests folder, cd tests
 2. node loginUser.js
-
-# To launch Registring User test follow these steps
-
-1. Go into the tests folder, cd tests
-2. node registringUser.js
 
 # To launch Signout test follow these steps
 
