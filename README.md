@@ -8,9 +8,17 @@ First clone github repository on your local and follow steps
 1. git clone https://github.com/Calculator-dev/atlantbh-junior-qa-task
 2. npm install
 
-If you get error for "chromedriver" and cant start one of the following test visit this site to solve your issue https://zwbetz.com/download-chromedriver-binary-and-add-to-your-path-for-automated-functional-testing/
+If you get error for "chromedriver" and cant start one of the following test visit this site to solve your issue 
+https://zwbetz.com/download-chromedriver-binary-and-add-to-your-path-for-automated-functional-testing/
 
 First you have to add "chromedriver" to your PATH and then run one of the tests.
+
+After that you have to restar your VSCode and run tests.
+
+!Important 
+/****************************************************************************************************
+YOU HAVE TO MATCH VERSION OF "CHROMEDRIVER" INSTALLED IN PACKAGE.JSON AND ONE YOU ARE ADDING IN PATH.
+*****************************************************************************************************/
 
 # To launch login User test follow these steps
 
