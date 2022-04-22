@@ -15,7 +15,7 @@ First you have to add "chromedriver" to your PATH and then run one of the tests.
 
 After that you have to restar your VSCode and run tests.
 
-!Important 
+
 /****************************************************************************************************
 YOU HAVE TO MATCH VERSION OF "CHROMEDRIVER" INSTALLED IN PACKAGE.JSON AND ONE YOU ARE ADDING IN PATH.
 *****************************************************************************************************/
