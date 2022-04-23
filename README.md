@@ -22,26 +22,36 @@ YOU HAVE TO MATCH VERSION OF "CHROMEDRIVER" INSTALLED IN PACKAGE.JSON AND ONE YO
 
 # To launch Registring User test follow these steps
 
-1. Go into the tests folder, cd tests
+1. Go into the tests folder by typing "cd tests" in the terminal
 2. In the registerUser.js changle line 12, delete following email "farisaksalic@gmail.com" and add yours
-3. node registringUser.js
+3. Open your terminal and type "node registringUser.js"
 
 # To launch login User test follow these steps
 
-1. Go into the tests folder, cd tests
-2. node loginUser.js
+1. Go into the tests folder by typing "cd tests" in the terminal
+2. Open your terminal and type "node loginUser.js"
 
 # To launch Signout test follow these steps
 
-1. Go into the tests folder, cd tests
-2. node signoutUser.js
+1. Go into the tests folder by typing "cd tests" in the terminal
+2. Open your terminal and type "node signoutUser.js"
 
 # To launch Search Item test follow these steps
 
-1. Go into the tests folder, cd tests
-2. node searchItems.js
+1. Go into the tests folder by typing "cd tests" in the terminal
+2. Open your terminal and type "node searchItems.js"
 
 # To launch Add Item to Cart test follow these steps
 
-1. Go into the tests folder, cd tests
-2. node addItemToCart.js
+1. Go into the tests folder by typing "cd tests" in the terminal
+2. Open your terminal and type "node addItemToCart.js"
+
+# To launch Buying Items from cart test follow these steps
+
+1. Go into the tests folder by typing "cd tests" in the terminal
+2. Open your terminal and type "node buyingItems.js" 
+
+# To launch Add two Items in the Cart test follow these steps
+
+1. Go into the tests folder by typing "cd tests" in the terminal
+2. Open your terminal and type "node twoCartItems.js"
