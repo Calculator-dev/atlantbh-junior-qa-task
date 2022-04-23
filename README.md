@@ -55,3 +55,14 @@ YOU HAVE TO MATCH VERSION OF "CHROMEDRIVER" INSTALLED IN PACKAGE.JSON AND ONE YO
 
 1. Go into the tests folder by typing "cd tests" in the terminal
 2. Open your terminal and type "node twoCartItems.js"
+
+# To launch Delete item from the cart test follow these steps
+
+1. Go into the tests folder by typing "cd tests" in the terminal
+2. Open your terminal and type "node deletingItemFromCart.js"
+
+# To launch Show item details test follow these steps
+
+1. Go into the tests folder by typing "cd tests" in the terminal
+2. Open your terminal and type "node itemDetails.js"
+
