@@ -10,7 +10,11 @@ async function example() {
     //add a todo
     await driver.findElement(By.className("button ajax_add_to_cart_button btn btn-default")).click()
     await driver.sleep(2000)
-    await driver.findElement(By.xpath("//*[@id='layer_cart']/div[1]/div[2]/div[4]/span/span/i")).click()
+    await driver.findElement(By.xpath('//*[@id="layer_cart"]/div[1]/div[2]/div[4]/span')).click()
+    await driver.sleep(2000)
+    await driver.findElement(By.xpath('//*[@id="homefeatured"]/li[2]/div/div[2]/div[2]/a[1]')).click()
+    await driver.sleep(2000)
+    await driver.findElement(By.xpath('//*[@id="layer_cart"]/div[1]/div[2]/div[4]/span')).click()
     //close the browser
 }       
 
